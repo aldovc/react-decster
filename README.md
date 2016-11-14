@@ -6,4 +6,4 @@ In order to facilitate learning the different tools and technologies, this proje
 Proposed order
 -------------
 
-1. (in-browser)[https://github.com/aldovc/react-decster/tree/in-browser]
+1. [in-browser](https://github.com/aldovc/react-decster/tree/in-browser)
